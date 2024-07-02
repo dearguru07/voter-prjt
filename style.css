@@ -1,0 +1,33 @@
+.container {
+  width: 450px;
+  margin: 40px auto;
+  background-color: rgb(66, 237, 160);
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  height: 180px;
+}
+input {
+  width: 100%;
+  /* outline: none; */
+  font-size: 20px;
+  padding: 7px 25px;
+  border: none;
+  border-radius: 9px;
+  box-sizing: border-box;
+  /* margin: 10px; */
+}
+.btn {
+  background-color: rgb(229, 95, 229);
+  padding: 8px 20px;
+  border-radius: 9px;
+  border: 1px solid black;
+  font-size: 19px;
+  margin: 15px;
+  cursor: pointer;
+  font-weight: bolder;
+  margin-top: 25px;
+}
+h2{
+  margin-bottom: 50px;
+}
